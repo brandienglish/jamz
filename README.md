@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Jamz
 
 Develop an elegant React.js Music Application. 
 
